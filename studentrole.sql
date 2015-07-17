@@ -1,0 +1,12 @@
+create role student_role;
+grant connect to student_role;
+grant create table to student_role;
+grant create database link to student_role;
+grant create procedure to student_role;
+grant create session to student_role;
+grant create snapshot to student_role;
+grant create synonym to student_role;
+grant create table to student_role;
+grant create trigger to student_role;
+grant create type to student_role;
+grant create view to student_role;
